@@ -2,7 +2,6 @@ import json
 import cv2
  
 # Opening JSON file 
-# f = open('/home/enting/桌面/點膠&缺件/Testing_20210312/nnnn-3.json',) 
 print("Your inferred JSON path")
 f = open(input())
 
